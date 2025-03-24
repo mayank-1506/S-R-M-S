@@ -1,1 +1,1 @@
-# S-R-M-S
+Student Result Management System
